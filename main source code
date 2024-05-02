@@ -2,8 +2,6 @@
 
 
 from __future__ import print_function
-PROG_VER = "13.2"  # current version of this python script
-print('Loading Wait...')
 import os
 import sys
 import time
